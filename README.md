@@ -3,9 +3,10 @@
 Thanks to @GoogleAI for open-sourcing hand gesture tracking AI for mobile devices.‬
 
 ![](gesture.jpg)
+![](image5.png)
 
 ‪Awesome hand perception functionality infers up to 21 3D points of a hand (or multiple hands) on a mobile phone from just a single frame.
-![](image5.jpg)
+
 ![](image2.gif)
 ‬![](image10.gif)
 
